@@ -10,3 +10,6 @@ Vue.js ile geliştirilmiş at yarışı simülasyon oyunu. Komik at isimleri ols
 ```bash
 npm install
 npm run dev
+```
+
+<img width="2543" height="1370" alt="image" src="https://github.com/user-attachments/assets/23e6ee9d-745a-4145-813a-51590e0f9122" />
